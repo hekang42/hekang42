@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 🌱 I am a developer studying in 42Seoul. 
 
-[![hekang's 42 stats](https://badge42.herokuapp.com/api/stats/hekang)](https://github.com/JaeSeoKim/badge42)
+[![hekang's 42 stats](https://badge42.herokuapp.com/api/stats/hekang?privacyEmail=false)](https://github.com/JaeSeoKim/badge42)
