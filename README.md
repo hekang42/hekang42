@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 🌱 I am a developer studying in 42Seoul. 
 
 [![hekang's 42 stats](https://badge42.herokuapp.com/api/stats/hekang?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+![hekang's github stats](https://github-readme-stats.vercel.app/api?username=hekang42&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+![hekang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hekang42&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
