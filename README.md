@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 > 
 >  **2021.10.21 ~ 2021.11.29**  
 - SwiftUI 로 만든 iOS Application 
-- `MVVM`, `Realm`, `snapKit`, `Toast-Swift`, `RxSwift`
+- `SwiftUI`, `Firebase`
 - 2021.12.06 (v1.1) 업데이트
 
 
