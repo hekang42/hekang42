@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 # 📱 Released
 
+<img src = "https://user-images.githubusercontent.com/42266439/146886224-f6b039da-072a-42db-a2fd-bf1a3652ffe6.png" width="40" height="40"/>
 <a href="https://apps.apple.com/kr/app/%EB%8F%99%EB%84%A4%EB%B6%81/id1594994831">
   <img src="https://img.shields.io/badge/App%20Store-동네북-7a72e7?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
 </a>
