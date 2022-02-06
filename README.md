@@ -51,8 +51,15 @@ Here are some ideas to get you started:
 > 우리 동네 책 소셜 커뮤니티 플랫폼 <img src = "https://user-images.githubusercontent.com/42266439/146886224-f6b039da-072a-42db-a2fd-bf1a3652ffe6.png" width="17" height="17"/>
 > 
 >  **2021.10.21 ~ 2021.11.29**  
-- SwiftUI 로 만든 iOS Application 
-- `SwiftUI`, `Firebase`
-- 2021.12.06 (v1.1) 업데이트
+
+
+<a href="https://apps.apple.com/kr/app/lets-git-it/id1606646308">
+  <img src="https://img.shields.io/badge/App%20Store-Let's Git it!-85C767?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
+</a>
+
+> 당신을 위한 커밋 챌린지 어플리케이션 ‘Let’s Git it!’
+>
+> **2022.01.13 ~ 진행중**
+
 
 
