@@ -44,6 +44,17 @@ Here are some ideas to get you started:
 # 📱 Released
 
 
+<a href="https://apps.apple.com/kr/app/lets-git-it/id1606646308">
+  <img src="https://img.shields.io/badge/App%20Store-Let's Git it!-85C767?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
+</a>
+
+> 당신을 위한 커밋 챌린지 어플리케이션 ‘Let’s Git it!’
+>
+> **2022.01.13 ~ 진행중**
+
+
+
+
 <a href="https://apps.apple.com/kr/app/%EB%8F%99%EB%84%A4%EB%B6%81/id1594994831">
   <img src="https://img.shields.io/badge/App%20Store-동네북-7a72e7?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
 </a>
@@ -52,14 +63,6 @@ Here are some ideas to get you started:
 > 
 >  **2021.10.21 ~ 2021.11.29**  
 
-
-<a href="https://apps.apple.com/kr/app/lets-git-it/id1606646308">
-  <img src="https://img.shields.io/badge/App%20Store-Let's Git it!-85C767?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
-</a>
-
-> 당신을 위한 커밋 챌린지 어플리케이션 ‘Let’s Git it!’
->
-> **2022.01.13 ~ 진행중**
 
 
 
