@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/App%20Store-Let's Git it!-85C767?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
 </a>
 
-> 당신을 위한 커밋 챌린지 어플리케이션 ‘Let’s Git it!’
+> 당신을 위한 커밋 챌린지 어플리케이션 Let’s Git it!’
 >
 > **2022.01.13 ~ 진행중**
 
