@@ -43,6 +43,12 @@ Here are some ideas to get you started:
 
 # 📱 Released
 
+<a href="https://apps.apple.com/kr/app/한들/id1619947572">
+  <img src="https://img.shields.io/badge/App%20Store-한들-C30000?style=for-the-badge&logo=App%20Store&logoColor=0D96F6" /></a>
+
+> 한글로 푸는 워들, 한들
+>
+> **2022.04.18 ~ 진행중**
 
 <a href="https://apps.apple.com/kr/app/lets-git-it/id1606646308">
   <img src="https://img.shields.io/badge/App%20Store-Let's Git it!-85C767?style=for-the-badge&logo=App%20Store&logoColor=0D96F6"/>
@@ -50,7 +56,7 @@ Here are some ideas to get you started:
 
 > 당신을 위한 커밋 챌린지 어플리케이션 Let’s Git it!’
 >
-> **2022.01.13 ~ 진행중**
+> **2022.01.13 ~ 2022.04**
 
 
 
@@ -61,7 +67,7 @@ Here are some ideas to get you started:
 
 > 우리 동네 책 소셜 커뮤니티 플랫폼 <img src = "https://user-images.githubusercontent.com/42266439/146886224-f6b039da-072a-42db-a2fd-bf1a3652ffe6.png" width="17" height="17"/>
 > 
->  **2021.10.21 ~ 2021.11.29**  
+>  **2021.10.21 ~ 2021.11**  
 
 
 
